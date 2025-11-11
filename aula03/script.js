@@ -5,4 +5,4 @@ var idade = 25; //Número usados sem aspas (simples ou duplas),
 
 var mensagem = `Olá, meu nome é ${nome} e tenho ${idade} anos`;
 
-conseole.log(mensagem); //Utilizado para fazer a impressão do resultado na tela
+console.log(mensagem); //Utilizado para fazer a impressão do resultado na tela
